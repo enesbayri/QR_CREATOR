@@ -20,17 +20,10 @@
 <br><hr><br>
 <p align="center">
     <img src="assets/application_ui/qrhomePage_ui.jpeg
-    " style="border-radius: 30px; " width="400">
-</p>
-
-<br><hr><br>
-<p align="center">
+    " style="border-radius: 10px;margin:10px " width="150" height="280">
     <img src="assets/application_ui/qrResponsive_ui.jpeg
-    " style="border-radius: 30px; " width="400">
+    " style="border-radius: 10px;margin:10px " width="150" height="280">
+    <img src="assets/application_ui/qrResponsive_ui.jpeg
+    " style="border-radius: 10px;margin:10px " width="150" height="280">
 </p>
 
-<br><hr><br>
-<p align="center">
-    <img src="assets/application_ui/qrDetail_ui.jpeg
-    " style="border-radius: 30px; " width="400">
-</p>
