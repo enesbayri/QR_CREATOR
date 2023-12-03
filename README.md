@@ -19,7 +19,7 @@
 </p>
 <br><hr><br>
 <p align="center">
-    <img src="https://r.resimlink.com/Vi4lJ.jpeg
+    <img src=""assets/application_ui/qrhomePage_ui.jpeg
     " style="border-radius: 30px; " width="400">
 </p>
 
