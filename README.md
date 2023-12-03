@@ -19,7 +19,7 @@
 </p>
 <br><hr><br>
 <p align="center">
-    <img src="assets/application_ui/qrhomePage_ui.jpeg
+    <img src="assets/Loading.gif
     " style="border-radius: 10px;margin:10px " width="150" height="280">
     <img src="assets/application_ui/qrResponsive_ui.jpeg
     " style="border-radius: 10px;margin:10px " width="150" height="280">
