@@ -18,8 +18,8 @@
 </p>
 <br><hr><br>
 <p align="center">
-    <img src="assets/application_ui/qrhomePage_ui.jpeg" style="border-radius: 10px;margin:10px " width="150">
-    <img src="assets/application_ui/qrResponsive_ui.jpeg" style="border-radius: 10px;margin:10px " width="150">
-    <img src="assets/application_ui/qrResponsive_ui.jpeg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/application_ui/qrhomePage_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/application_ui/qrResponsive_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/application_ui/qrResponsive_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
 </p>
 
