@@ -13,7 +13,8 @@
 
 -> Oluşan QR kodunuza bastığınızda QR Detay sayasına yönlendirileceksiniz. QR kodunuz büyüyecek ve indirme butonuyla indirebileceksiniz!
 <br><br><br>
-
+ <img src="assets/application_ui/qrhomePage_ui.jpeg
+    " style="border-radius: 10px;margin:10px " width="150" height="280">
 <p align="center">
     <img src="assets/Loading.gif" style="border-radius: 90px;" width="400">
 </p>
